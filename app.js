@@ -34,7 +34,7 @@ while (ingresaLenguaje === "") {                              /*while mientras e
     }
 }
 
-alert(`Hola ${ingresaNombre}, tienes ${ingresaEdad} años y ya estás aprendiendo ${ingresaLenguaje}`)
+alert(`Hola ${ingresaNombre}, tienes ${ingresaEdad} años y ya estás aprendiendo ${ingresaLenguaje}`)   /* muestra el mensaje con los datos introducidos por el usuario */
 
 
 PreguntaGustarEstudiar();  /* llama a la funcion PreguntaGustarEstudiar*/
